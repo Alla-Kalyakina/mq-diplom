@@ -491,9 +491,8 @@ a {
 .product__body {
   box-sizing: border-box;
   margin-top: -40px;
-  padding: 55px 20px;
+  padding: 55px 20px 25px;
   border: 3px solid #d3c59d;
-  height: 260px;
   font-size: 15px;
   line-height: 22px;
 }
@@ -771,9 +770,6 @@ a {
   .products {
     display: flex;
     flex-direction: column;
-  }
-  .product {
-    width: 100%;
   }
 }
 
